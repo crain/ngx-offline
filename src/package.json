@@ -1,0 +1,29 @@
+{
+  "name": "ngx-offline",
+  "version": "0.2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crain/ngx-offline"
+  },
+  "author": {
+    "name": "Mark van Veen",
+    "email": "bobbietables@gmail.com"
+  },
+  "keywords": [
+    "angular",
+    "offline"
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/crain/ngx-offline/issues"
+  },
+  "main": "ngx-offline.umd.js",
+  "module": "ngx-offline.js",
+  "jsnext:main": "ngx-offline.js",
+  "typings": "ngx-offline.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
